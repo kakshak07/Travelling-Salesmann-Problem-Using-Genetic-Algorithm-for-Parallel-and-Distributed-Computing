@@ -24,4 +24,4 @@ $ make
 $ mpiexec -n 2 ./tspgen
 
 
-If you have any query please feel free to contact me: kakshak@gmail.com
+If you have any query please feel free to contact me on : kakshak@gmail.com
